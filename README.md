@@ -6,6 +6,11 @@ Certainly! Here's a simple README template for your OpenCV basketball prediction
 
 This Python script utilizes the OpenCV library to perform basketball prediction based on the trajectory of the ball in a given video.
 
+
+![Screenshot (104)](https://github.com/Aditya-tec/basketball-shot-predict-opencv/assets/75620159/55c0917f-bb6e-4856-b5bd-a9c7a0336249)
+
+![Screenshot (108)](https://github.com/Aditya-tec/basketball-shot-predict-opencv/assets/75620159/f7791580-aeb0-481c-bb86-cb057e5d53bb)
+
 ## Prerequisites
 
 - Python 3.x
